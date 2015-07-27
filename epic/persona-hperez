@@ -2,14 +2,34 @@
 	<html>
 			<title> personas </title>
 
-
+				<body>
+					<img src="fotopersona1.jpg" alt="persona"
 				<h1>Persona1 </h1>
 				<p>Susan Smith is a nurse that like animals. She is 35 years old married with two children.</p>
 				<p>She has a busy schedule. She has friends that like to hike. </p>
 				<p>Some of her friends  suguested to try a specific trail</p>
+					<img src="un_chico_que_viaja_en_barco_y_que_podr_a_ser_un_posible_asm_tico.jpg" alt="persona2"
 				<h1>Persona2 </h1>
 			   <p>Peter Monk is a plumber. He likes bird watching. He likes to travel three or four times per year</p>
 				<p>He likes to get the maximum of every trip.So, he plans every trip carefully</p>
 				<p>He choose to visit several trails in every trip according to the length of his visit. </p>
+					<h2> Use case 1</h2>
+					 <li>  sign up </li>
+					 <li>  search        </li>
+					 <li>   see lentgh  and time of the trail</li>
+					 <li>   write about the trail</li>
+					 <li>    grade the trail</li>
+					<h2>  Use case 2</h2>
+					  <li>  sign up  </li>
+					<li>    search   </li>
+					<li>     choose map</li>
+					<li>    choose lentgh  aand time trail</li>
+					<li>   send mesagge to family or friend</li>
+					<li>  write about trail</li>
+					<li> grade the trail</li
+
+
+
+						>
 			</body>
 	</html>
